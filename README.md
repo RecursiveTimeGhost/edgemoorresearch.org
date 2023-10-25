@@ -137,3 +137,55 @@ Project Jake, named after Elizabeth “Jake” Feinler, is dedicated to addressi
 6. **Sponsor:** Support the development and implementation of Project Jake to foster a sustainable and collaborative environment for responsible data governance.
 
 Join us in shaping a safer and more accountable digital world for everyone.
+
+# Useful Notes:
+
+Purposes of the RDDS:
+1. Facilitating the provision of domain name registration data to legitimate requestors.
+2. Maintaining a transparent and accountable system for domain name ownership and administration.
+3. Supporting the enforcement of intellectual property rights and trademark protection.
+4. Assisting law enforcement agencies in combating cybercrimes and online fraud.
+5. Ensuring the stability and security of the Domain Name System (DNS).
+6. Facilitating research and analysis of domain name ownership patterns and trends.
+7. Enabling the resolution of disputes related to domain name ownership and misuse.
+
+List of stakeholders relevant to each purpose of the RDDS:
+
+1. **Facilitating the provision of domain name registration data to legitimate requestors:**
+   * Domain registrars and registries
+   * Researchers and analysts
+   * Law enforcement agencies
+
+2. **Maintaining a transparent and accountable system for domain name ownership and administration:**
+   * Domain name registrants and website owners
+   * Policy authorities and regulatory bodies
+   * Domain registrars and registries
+
+3. **Supporting the enforcement of intellectual property rights and trademark protection:**
+   * Intellectual property attorneys and rights holders
+   * Brand protection agencies
+   * Policy authorities and regulatory bodies
+
+4. **Assisting law enforcement agencies in combating cybercrimes and online fraud:**
+   * Law enforcement agencies and cybersecurity units
+   * Domain registrars and registries
+   * Security researchers and forensic experts
+
+5. **Ensuring the stability and security of the Domain Name System (DNS):**
+   * Internet service providers (ISPs) and network administrators
+   * Policy authorities and regulatory bodies
+   * DNS security and stability experts
+
+6. **Facilitating research and analysis of domain name ownership patterns and trends:**
+   * Market researchers and analysts
+   * Academic institutions and researchers
+   * Data mining and analytics firms
+
+7. **Enabling the resolution of disputes related to domain name ownership and misuse:**
+   * Domain name registrants and website owners
+   * Dispute resolution authorities and platforms
+   * Legal professionals specializing in domain disputes
+
+Each stakeholder group plays a crucial role in utilizing the RDDS for different purposes, highlighting the diverse nature of the services and data provided by the system.
+
+
