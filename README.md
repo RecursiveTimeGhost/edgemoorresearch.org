@@ -105,22 +105,19 @@ In the style of Basecamp and 37signals, this content is designed to be concise, 
 
 # Blueprint #3
 
-This structure offers a more streamlined version of the original text:
+## This structure offers a more streamlined version of the original text:
 
 ---
 
-## About Project Jake:
+### About Project Jake:
 
 Project Jake, named after Elizabeth “Jake” Feinler, is dedicated to addressing the challenges surrounding the management and sharing of domain registration data. Our framework aims to ensure transparent and efficient data management, complying with global privacy regulations.
 
-## Key Objectives:
+### Key Objectives:
 
-### Understanding the Origin:
-Learn about the history of WHOIS and its evolution from the early days of the ARPANET to the complexities of today's internet landscape.
-### Challenges Today:
-Explore the current challenges arising from global privacy regulations, complex business structures, and conflicting policies that impact data collection and disclosure.
-### Our Approach:
-Discover how Project Jake is developing a comprehensive framework for expressing collection, labeling, and access rules for Registration Data Directory Services (RDDS), fostering responsible and secure data governance.
+1. **Understanding the Origin:** Learn about the history of WHOIS and its evolution from the early days of the ARPANET to the complexities of today's internet landscape.
+2. **Challenges Today:** Explore the current challenges arising from global privacy regulations, complex business structures, and conflicting policies that impact data collection and disclosure.
+3. **Our Approach:** Discover how Project Jake is developing a comprehensive framework for expressing collection, labeling, and access rules for Registration Data Directory Services (RDDS), fostering responsible and secure data governance.
 
 ### Why It Matters:
 
