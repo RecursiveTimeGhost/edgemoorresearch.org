@@ -1,7 +1,7 @@
 # edgemoorresearch.org
 
 # Blueprint #1
-## Here's a suggested blueprints for your website with separate web pages for each call to action. Each page will include content that educates visitors about the significance of the initiative and encourages them to engage, participate as stakeholders, or provide support for the project.
+## Here's a suggested blueprint for your website with separate web pages for each call to action. Each page will include content that educates visitors about the significance of the initiative and encourages them to engage, participate as stakeholders, or provide support for the project.
 
 ## Homepage:
 * Introduction to Project Jake and Edgemoor Research Institute.
