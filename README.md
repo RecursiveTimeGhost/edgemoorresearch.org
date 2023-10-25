@@ -127,7 +127,7 @@ Project Jake, named after Elizabeth “Jake” Feinler, is dedicated to addressi
 * Encouraging global cooperation in data management
 * Empowering stakeholders through active participation and collaboration
 
-## Get Involved:
+##$ Get Involved:
 
 1. **Participate:** Share your insights and join the discussion about data privacy and internet governance.
 2. **Collaborate:** Work with us on developing innovative solutions for transparent and efficient data management.
