@@ -1,8 +1,9 @@
 # edgemoorresearch.org
 
-Here's a suggested blueprint for your website with separate web pages for each call to action. Each page will include content that educates visitors about the significance of the initiative and encourages them to engage, participate as stakeholders, or provide support for the project.
+# Blueprint #1
+## Here's a suggested blueprints for your website with separate web pages for each call to action. Each page will include content that educates visitors about the significance of the initiative and encourages them to engage, participate as stakeholders, or provide support for the project.
 
-# Homepage:
+## Homepage:
 * Introduction to Project Jake and Edgemoor Research Institute.
 * Brief overview of the significance of efficient and legal access to registration data while protecting privacy.
 * Clear and compelling calls to action, directing visitors to learn more or take action.
@@ -57,3 +58,49 @@ Here's a suggested blueprint for your website with separate web pages for each c
 * Call to action: "Review Our Privacy Policy."
 
 Ensure that each page features engaging visuals, clear headings, and concise yet informative content. Additionally, use eye-catching buttons and graphics for the calls to action to make it easy for visitors to take the next step. This structure should help guide visitors through the significance of the work and encourage their active involvement and support.
+
+# Blueprint #2
+
+## Let's create an alternate web page structure that organizes the content based on clear and compelling calls to action. Each call to action encourages visitors to: engage with the initiative, participate as stakeholders, or provide support for the project. Here's the content for each of these web pages:
+
+## Web Page 1: "Why It Matters"
+
+### Introduction:
+We're on a mission to revolutionize the way we handle registration data on the internet. Project Jake, in honor of Elizabeth "Jake" Feinler, is paving the way for a more efficient, lawful, and privacy-conscious system for accessing registration data while complying with global regulations.
+
+### Why It Matters:
+The internet has evolved into a complex ecosystem. The old ways of handling registration data are no longer sufficient. That's where Project Jake steps in. We're developing a framework that allows for efficient and legal access to registration data, all while safeguarding privacy and adhering to global regulations.
+
+### How You Make a Difference:
+When you engage with our initiative, you play a crucial role in shaping the future of the internet. By supporting Project Jake, you're helping establish a framework that enables responsible data access for everyone. Your involvement ensures that legitimate users can access essential data while protecting privacy and staying on the right side of the law.
+
+## Web Page 2: "Get Involved"
+
+### Introduction:
+At Project Jake, we believe that the power of change lies in the hands of the people who care. Here's how you can get involved and become a stakeholder in our mission.
+
+### Ways to Participate:
+
+* Join as a Collector: If you're an organization that collects registration data, become a part of our initiative to shape the future of data access policies.
+* Requestor or Researcher: Individuals seeking data for legitimate purposes, join us to ensure your needs are met efficiently and legally.
+* Protector of Privacy: If you're passionate about data privacy, be a part of our advocacy efforts.
+* Policy Authority: Help define policies that govern the internet.
+* Why Your Participation Matters:
+* By participating in Project Jake, you directly influence the framework that governs data access. You ensure that your needs are met while respecting the rights and privacy of others. Your voice and expertise matter.
+
+## Web Page 3: "Support Us"
+
+### Introduction:
+We can't do this alone. Your support is vital to making Project Jake a success. Here's how you can contribute.
+
+### Ways to Support:
+
+* Financial Support: Your donations keep our mission moving forward. Support us to maintain the initiative and fund research and development.
+* Advocacy: Spread the word about Project Jake. Advocate for responsible data access and privacy.
+* Collaboration: Partner with us. If your organization aligns with our mission, let's work together.
+* The Impact of Your Support:
+* Your support directly fuels our efforts. Financial contributions keep the initiative running, advocacy expands our reach, and collaboration broadens our impact. Your support is what drives meaningful change on the internet.
+
+In the style of Basecamp and 37signals, this content is designed to be concise, engaging, and action-oriented. It speaks directly to the visitor, outlining the significance of the project and the ways they can engage, participate, and provide support.
+
+
