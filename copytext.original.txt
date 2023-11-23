@@ -1,0 +1,90 @@
+About Project Jake
+
+The Internet today is a large and complicated ecosystem, and the tools and processes that were designed for a simpler environment are no longer sufficient for today’s complexities. Project Jake, named for Elizabeth “Jake” Feinler, is developing a framework for expressing collection, labeling and access rules for Registration Data Directory Services (RDDS), also known as WHOIS. This work is intended to provide a new foundation for Internet-based data collection and disclosure policies related to domain name system registration.
+
+The origin of WHOIS started with the Arpanet, before the Internet and the creation of the Domain Name System (DNS). The administrative and technical contacts were the people in charge of the time-shared computers on the Arpanet. The technical contact was the person one might call the sysadmin today. The administrative contact was usually a person with the administrative authority who could take action if one of the system users was misbehaving. Today, that simple concept of an administrative and technical contact for a domain that is available to anyone else on the network is significantly complicated by global privacy regulations, complex business structures, and conflicting policies.
+
+Project Jake will start by building and socializing a model and framework that will express policies in such a way as to show the complex interactions of different stakeholder requirements. The implementation of this framework will allow for the expression of contact information via the RDDS that is appropriate to the policies that govern any particular stakeholder group.
+
+By allowing for this kind of data-driven examination of policy, future governance and policy makers can clearly see the results of their changes, and determine not only what aspects of RDDS information will be shared, but also determine the overall cost and effectiveness of the changes under consideration.
+
+Changing the Model: Rethinking registration data collection and disclosure
+
+Edgemoor Research Institute seeks to improve the utility, efficiency, accuracy, and privacy of data collection and disclosure by bringing together non-profit, for-profit, government, end users, and other stakeholders to work together, share knowledge, and develop voluntary technical solutions to complex data-related public policy challenges.
+
+Due to changes arising from new privacy legislation around the world, it has become more difficult for different user groups to obtain access to important domain name contact information they require to protect the public. This data appears in what is commonly known as the “Whois” database. Examples include:
+• IP attorneys seeking to prevent consumer harm and fraud by tracking down domains supporting counterfeit products.
+• Online Security researchers trying to understand and protect the public from cyberattacks and misinformation by understand the source of attacks.
+• First responders such as key government agencies looking for more information about domain owners so they can respond to cybersecurity incidents more effectively.
+
+These are some of the scenarios driving the need for a more efficient way to allow access to registration data in a manner that enables these valid and important scenarios while protecting registrars from the liability brought by bad actors.
+
+Understanding the History: Internet Registrations – Fifty Years Ago and Today
+
+WHOIS started with the ARPANET, before the Internet and before the creation of the Domain Name System (DNS). As the DNS and other registration systems (e.g., IP addresses, Autonomous System Numbers) were being deployed, there was a need to be able to contact the operators of networks and domain names. Since WHOIS was available, it was pressed into use for this purpose. The administrative (Admin) and technical (Tech) contacts were the people in charge of the time-shared computers on the ARPANET. The Admin contact was usually a person with the authority to act if one of the users on their system was misbehaving. The Tech contact was the person who today would commonly be called the sysadmin.
+
+Today’s Internet use-cases, however, no longer map to the original purpose of that WHOIS system. Fifty years ago WHOIS was a directory of a few sysadmins managing several dozen time-shared hosts on the ARPANET. This has evolved and grown to a directory of several hundred million domain name registrants on the Internet. WHOIS data also evolved to be used – and misused – in many ways not originally envisioned. The simple concept of Admin and Tech contacts being available to everyone freely is significantly complicated by the emergence of regional privacy regulations, law enforcement demands, complex business structures, combating fraud and abuse and conflicting policies. At the same time, people have come to rely on the WHOIS system and still require its data for lawful purposes.
+
+The Problems Edgemoor is Trying to Solve
+
+Our keystone effort, which we are calling Project Jake, seeks to find new solutions to manage when and how to share registration data. And do so efficiently, legally, and cost-effectively.
+
+Stakeholders in the Whois system (now properly known as the Registration Data Directory Services or RDDS) are all currently stuck in a mire of mutually conflicting governing policies and requirements for accessing data that are difficult to navigate. Edgemoor believes there is a way to thread this needle. Project Jake, an effort to design a framework for expressing collection, labeling, and access rules for the RDDS, represents a means to allow the data collectors to succeed in complying with the legal requirements around their data stewardship while still quickly and efficiently meeting the needs of the data requesters that depend upon obtaining that information.
+
+To understand how we will solve the problem, let’s look to the stakeholders that inform the requirements to our framework.
+
+The Stakeholders
+
+There are a variety of stakeholder groups that have vested interests in and concerns related to accessing or providing access to domain name registration data. Broadly speaking, these groups can be categorized as:
+
+• Collectors: entities that collect the data (such as registrars and registries)
+• Requestors: entities that want the data (such as individual researchers, law enforcement, and IP attorneys)
+• Protectors: entities that want to protect the data (such as privacy advocates)
+• Policy Authorities: entities that must define policies regarding the Internet (such as NGO and government policymakers)
+
+Common Goals
+- Meet compliance requirements without breaking local laws
+- Respond to all legally valid request in a timely manner (e.g., 5 business days)
+- Minimal costs to process abuse claims
+- Find patterns of infringement associated with individuals or orgs and acquire data when a potential IPR conflict is discovered
+- Identify the registrant of a domain name for statistical analysis or survey purposes
+- To find unanticipated patterns of information
+- Protect and expand privacy rights for consumers
+- Move the industry to registered, compliant data use, exclusively
+- Provide and protect the Security, Stability, and Resiliency of the DNS
+- Support competition and innovation
+- Offer a high-quality registrant/registration experience and strong renewal rates
+
+
+Common Frustrations
+- Inconsistent international laws and liability exposures
+- Expensive and complicate data requests
+- Unrecovered costs of responding to request
+- DDoS from researcher harvesting
+- Potential expense for changing existing processes
+- WHOIS data abused for spamming/soliciting customers
+- Slow or non-response by collectors to data requests
+- Dismissive collectors
+- Insufficient data to perform statistically valid research
+- Rate limiting
+- Captcha
+- Organizations that do not prioritize consumer privacy above other business practices
+- Competing demands of stakeholders
+- Malicious registrations sullying reputation of the namespace
+
+The Solutions Edgemoor Brings to the Table
+
+As an active participant in conversations and committees with these stakeholders and more, Edgemoor is helping identify and bridge the gaps between the various goals and frustrations of the stakeholders. From facilitating conversations to developing a service that allows organizations to compare their data management and sharing policies, Edgemoor endeavors to bring new focus to how to share registration data in a way that serves everyone’s needs.
+
+Some of our outputs so far include:
+
+• A Gap Analysis of Registration Data Handling - Guiding the community towards documenting the gaps between what is expected around DNS registration data by different stakeholders.
+• A Registration Data Dictionary – Working within the IETF to develop a unified public list of registration data elements, including an an organized and independent change control process.
+• The Rules Normalization and Application (RNA) service - The initial web-based policy comparison tool for expressing and comparing policies, checking consistency, and illustrating effects of policy changes.
+
+We look forward to your engagement with our work, either by participating as one of the stakeholder communities or helping fund us to continue our tool development. Please reach out to us to talk about how you and your organization might be a part of our community of supporters.
+
+Edgemoor Research Institute is a 501(c)(3) corporation.
+
+Site Privacy Policy (7 June 2021) – This site does not ask for any information, user identifying or otherwise, to view the materials here.  Please see our Privacy Policy for more details.
+
