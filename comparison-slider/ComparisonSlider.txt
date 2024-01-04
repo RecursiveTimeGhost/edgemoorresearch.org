@@ -85,10 +85,10 @@
 
 <div class="compare">
   <section class="before">
-    <img src="https://raw.githubusercontent.com/RecursiveTimeGhost/edgemoorresearch.org/main/screenshots/policy.0.png" alt="" />
+    <img src="https://raw.githubusercontent.com/RecursiveTimeGhost/edgemoorresearch.org/main/comparison-slider/policy.0.png" alt="" />
   </section>
   <section class="after">
-    <img src="https://raw.githubusercontent.com/RecursiveTimeGhost/edgemoorresearch.org/main/screenshots/policy.1.png" alt="" />
+    <img src="https://raw.githubusercontent.com/RecursiveTimeGhost/edgemoorresearch.org/main/comparison-slider/policy.1.png" alt="" />
   </section>
   <input type="range" id="range" step="0.1">
 </div>
