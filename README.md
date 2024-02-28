@@ -98,8 +98,7 @@ We can't do this alone. Your support is vital to making Project Jake a success. 
 * Financial Support: Your donations keep our mission moving forward. Support us to maintain the initiative and fund research and development.
 * Advocacy: Spread the word about Project Jake. Advocate for responsible data access and privacy.
 * Collaboration: Partner with us. If your organization aligns with our mission, let's work together.
-* The Impact of Your Support:
-* Your support directly fuels our efforts. Financial contributions keep the initiative running, advocacy expands our reach, and collaboration broadens our impact. Your support is what drives meaningful change on the internet.
+* The Impact of Your Support: Your support directly fuels our efforts. Financial contributions keep the initiative running, advocacy expands our reach, and collaboration broadens our impact. Your support is what drives meaningful change on the internet.
 
 In the style of Basecamp and 37signals, this content is designed to be concise, engaging, and action-oriented. It speaks directly to the visitor, outlining the significance of the project and the ways they can engage, participate, and provide support.
 
